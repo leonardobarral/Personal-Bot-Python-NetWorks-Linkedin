@@ -83,7 +83,7 @@ Essa separação é importante para facilitar a manutenção e possibilitar melh
    password = 'sua_senha'
    ```
    
-6. ▶️ Percorra as celulas do notebook e para cada uma execute com o comando (RUM).
+6. ▶️ Percorra as celulas do notebook e para cada uma execute com o comando (RUN).
   - Atentesse em filtrar a lista de usuários desejados, antes de escolher a rotina a ser executada.
 
 7. 🌐 A automação será executada no LinkedIn.
