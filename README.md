@@ -5,7 +5,7 @@
 ## Objetivos do Projeto 🎯
 
 - 🤖 Automatizar visualizações de perfis e o envio de convites de conexão com mensagens personalizadas.
-- - 📈 Aumentar o número de conexões relevantes no LinkedIn, focando em recrutadores e profissionais da área de tecnologia.
+- 📈 Aumentar o número de conexões relevantes no LinkedIn, focando em recrutadores e profissionais da área de tecnologia.
 - 🚀 Maximizar a eficiência e personalização da interação no LinkedIn.
 - 🛠️ Simular havegação humana com o uso de intervalos aleatórios e manipulação inteligente de abas para evitar bloqueios de conta.
 - 🛠️ Modularidade do código para facilitar futuras manutenções e evoluções.
