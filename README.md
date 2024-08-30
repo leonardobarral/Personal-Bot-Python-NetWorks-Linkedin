@@ -1,13 +1,18 @@
 # 🌟 AUTOMATIZAÇÃO DE LINKEDIN COM PYTHON E SELENIUM
 
-**Esta aplicação** é uma automação desenvolvida em Python utilizando a biblioteca Selenium para interagir com o LinkedIn. O objetivo principal é acessar perfis, enviar convites de conexão personalizados e monitorar a interação de maneira automatizada.
+** Este projeto é um bot que automatiza conexões e interações no LinkedIn, facilitando a construção de redes de contatos profissionais. O objetivo é automatizar tarefas repetitivas, como percorrer listas de perfis filtrados e enviar solicitações de conexão com mensagens personalizadas.
 
 ## Objetivos do Projeto 🎯
 
-- 🤖 Automatizar o envio de convites de conexão personalizados no LinkedIn.
 - 🚀 Maximizar a eficiência e personalização da interação no LinkedIn.
-- 🛠️ Modularidade do código para facilitar futuras manutenções e evoluções.
-- 🔄 Implementar soluções avançadas de controle de fluxo para otimização de recursos.
+- 🤖 Automatizar visualizações de perfis e o envio de convites de conexão personalizados.
+- 📈 **Maximizar Conexões**: Aumentar o número de conexões relevantes no LinkedIn, focando em recrutadores e profissionais da área de tecnologia.
+- 🛠️ **Simular Navegação Humana**: O uso de intervalos aleatórios e manipulação inteligente de abas para evitar bloqueios de conta.
+//- 🛠️ Modularidade do código para facilitar futuras manutenções e evoluções.
+
+
+- **Automação**: Automatizar o envio de convites no LinkedIn com mensagens personalizadas.
+
 
 ## Tecnologias Utilizadas 🖥 
 
