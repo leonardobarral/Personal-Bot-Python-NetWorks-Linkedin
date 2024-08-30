@@ -1,25 +1,21 @@
 # 🌟 AUTOMATIZAÇÃO DE LINKEDIN COM PYTHON E SELENIUM
 
-** Este projeto é um bot que automatiza conexões e interações no LinkedIn, facilitando a construção de redes de contatos profissionais. O objetivo é automatizar tarefas repetitivas, como percorrer listas de perfis filtrados e enviar solicitações de conexão com mensagens personalizadas.
+** Este projeto é um bot que automatiza conexões e interações no LinkedIn, facilitando a construção de um network profissionais. O objetivo é automatizar tarefas repetitivas, como percorrer listas de perfis filtrados e interagir com estes perfis, como visualizar perfis e enviar solicitações de conexão com mensagens personalizadas.
 
 ## Objetivos do Projeto 🎯
 
+- 🤖 Automatizar visualizações de perfis e o envio de convites de conexão com mensagens personalizadas.
+- - 📈 Aumentar o número de conexões relevantes no LinkedIn, focando em recrutadores e profissionais da área de tecnologia.
 - 🚀 Maximizar a eficiência e personalização da interação no LinkedIn.
-- 🤖 Automatizar visualizações de perfis e o envio de convites de conexão personalizados.
-- 📈 **Maximizar Conexões**: Aumentar o número de conexões relevantes no LinkedIn, focando em recrutadores e profissionais da área de tecnologia.
-- 🛠️ **Simular Navegação Humana**: O uso de intervalos aleatórios e manipulação inteligente de abas para evitar bloqueios de conta.
-//- 🛠️ Modularidade do código para facilitar futuras manutenções e evoluções.
-
-
-- **Automação**: Automatizar o envio de convites no LinkedIn com mensagens personalizadas.
-
+- 🛠️ Simular havegação humana com o uso de intervalos aleatórios e manipulação inteligente de abas para evitar bloqueios de conta.
+- 🛠️ Modularidade do código para facilitar futuras manutenções e evoluções.
 
 ## Tecnologias Utilizadas 🖥 
 
-- **Python**: Linguagem de programação principal.
+- **Python**: Linguagem de programação da arquitetura do projeto.
 - **Selenium WebDriver**: Automação da interação com o navegador.
-- **Web Scraping**: Extração de dados de páginas da web.
-- **Anaconda**: Ambiente de desenvolvimento e gerenciamento de dependências.
+- **Web Scraping**: Extração e interação de dados de páginas da web.
+- **Anaconda (Jupyter Notebook)**: Ambiente de desenvolvimento modular e gerenciamento de dependências.
 - **Chrome/Firefox WebDriver**: Controle dos navegadores Chrome e Firefox.
 
 ## Arquitetura do Código 🏛️
