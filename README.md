@@ -1,6 +1,6 @@
 # 🌟 AUTOMATIZAÇÃO DE LINKEDIN COM PYTHON E SELENIUM
 
-** Este projeto é um bot que automatiza conexões e interações no LinkedIn, facilitando a construção de um network profissionais. O objetivo é automatizar tarefas repetitivas, como percorrer listas de perfis filtrados e interagir com estes perfis, como visualizar perfis e enviar solicitações de conexão com mensagens personalizadas.
+**Este projeto** é um bot que automatiza conexões e interações no LinkedIn, facilitando a construção de um network profissionais. O objetivo é automatizar tarefas repetitivas, como percorrer listas de perfis filtrados e interagir com estes perfis, como visualizar perfis e enviar solicitações de conexão com mensagens personalizadas.
 
 ## Objetivos do Projeto 🎯
 
