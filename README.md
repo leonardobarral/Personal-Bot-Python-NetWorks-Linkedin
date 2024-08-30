@@ -48,32 +48,23 @@ Essa separação é importante para facilitar a manutenção e possibilitar melh
 ### Pré-requisitos
 
 - 🐍 **Python 3.8+**
-- 🌐 **Anaconda**
+- 🌐 **Anaconda (Jupyter Notebook)**
 - 🌐 **Google Chrome** ou **Firefox**
 - 🕸 **WebDriver** compatível com a versão do navegador
 
 ### Passos
 
-1. 📂 Clone este repositório:
+1. 📂 Clone este repositório em um diretório local:
    ```
    git clone https://github.com/leonardobarral/linkedin-automation.git
-   </código>
    ```
 
-2. 📦 Crie um ambiente virtual no Anaconda:
+2. 🛠️ Instale as dependências necessárias:
    ```
-   conda create -n linkedin-automation python=3.8
-   ```
-   ```
-   conda activate linkedin-automation
+   pip install selenium
    ```
 
-3. 🛠️ Instale as dependências necessárias:
-   ```
-   pip install -r requirements.txt
-   ```
-
-4. 🌐 Baixe e configure o WebDriver:
+3. 🌐 Baixe e configure o WebDriver:
    - Verifique a versão do navegador em:
      <chrome://settings/help> ou <about:firefox>
    - Baixe o WebDriver compatível:
@@ -81,22 +72,32 @@ Essa separação é importante para facilitar a manutenção e possibilitar melh
    - Coloque o WebDriver na pasta do Anaconda:
      <C:\Users\user\Anaconda3>
    
-5. ▶️ Execute a automação:
+4. ▶️ Execute a aplicação do Jupyter Notebook no diretório clonado:
+   #### Abra o CMD no diretório clonado e execute o comando abaixo:
    ```
-   python main.py
+   jupyter notebook
    ```
+5. 🛠 Configure suas variáveis de ambiente:
+   ```
+   email = 'seu_email@gmail.com'
+   password = 'sua_senha'
+   ```
+   
+6. ▶️ Percorra as celulas do notebook e para cada uma execute com o comando (RUM).
+  - Atentesse em filtrar a lista de usuários desejados, antes de escolher a rotina a ser executada.
 
-6. 🌐 A automação será executada no LinkedIn e enviará convites conforme configurado.
+7. 🌐 A automação será executada no LinkedIn.
+   
 
 ## 📋 Observações
 
 - Certifique-se de que a versão do navegador e do WebDriver sejam compatíveis.
 - Verifique as credenciais de login no arquivo de configuração antes de executar a automação.
+- Tenha certeza dos usuários filtrados antes de rodar a rotina desejada.
 
 ## 🔜 Próximos Passos
 
 - ✨ Implementar o envio de mensagens de follow-up.
 - 🛠️ Incluir suporte a multi-threading para maximizar a eficiência.
-- ☁️ Integrar com serviços de cloud para armazenamento de logs e análise de desempenho.
 
 ## Muito obrigado por esta visita! 😊
